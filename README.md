@@ -21,6 +21,8 @@ Add your Discord bot token and OpenAI token into the .env file.
 
 Upgrade your OpenAI API plan from free to a higher tier for an enhanced experience.
 
+Invite Maya to you discord: https://discord.com/oauth2/authorize?client_id=1184503984405352600&permissions=8&scope=bot
+
 Configuration:
 In the mayabot.js file:
 Update line 14 with your desired channelId where Maya will respond:
